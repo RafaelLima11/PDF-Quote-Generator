@@ -1,27 +1,19 @@
-PDF Quote Generator
+# PDF Quote Generator
 
 A Python application that collects client and project information, calculates the total cost, and generates a quote in PDF format.
 
-Features
+## Features
+- Collect client and project details
+- Calculate the total project cost
+- Generate PDF quotes
 
-Collect client and project details
+## Technologies
+- Python
+- FPDF
 
-Calculate the total project cost
+## How to Run
+1. Install the required dependencies.
+2. Run the main Python script.
 
-Generate PDF quotes
-
-Technologies
-
-Python
-
-FPDF
-
-How to Run
-
-Install the required dependencies.
-
-Run the main Python script.
-
-Project Context
-
+## Project Context
 Developed as part of a Python programming course.
